@@ -1,0 +1,10 @@
+altair
+cloudpickle
+joblib
+numpy
+openai
+pandas
+plotly
+streamlit
+streamlit_extras
+browser
